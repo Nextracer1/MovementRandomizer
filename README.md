@@ -3,7 +3,7 @@ Randomizes and shuffles most movement values in Titanfall 2!
 <br><br>
 
 # Usage
-* Grab an exe from the releases page
+* Grab an exe from the [releases](https://github.com/Nextracer1/MovementRandomizer/releases) page
 * Run TF2MovementRandomizer.exe as administrator 
 * Input your titanfall 2 install directory
 * In-game, run "exec randomizer" in console.
