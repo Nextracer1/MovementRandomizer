@@ -29,5 +29,5 @@ config.txt contains every convar that gets randomized, with a min range followed
 
 
 
-<br>Make sure you do this syntax exactly as it is here, because the program is VERY delicate when it comes to reading the file lol 
+<br>Make sure you do this syntax exactly as it is here, because the program is VERY delicate when it comes to reading the file lol<br>
 If you do something differently it'll probably either crash or make the convar fail to change in-game
