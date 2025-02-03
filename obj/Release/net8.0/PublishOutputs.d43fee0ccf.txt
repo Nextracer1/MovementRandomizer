@@ -1,0 +1,5 @@
+C:\Users\Harry\Desktop\release\TF2MovementRandomizer.exe
+C:\Users\Harry\Desktop\release\TF2MovementRandomizer.dll
+C:\Users\Harry\Desktop\release\TF2MovementRandomizer.deps.json
+C:\Users\Harry\Desktop\release\TF2MovementRandomizer.runtimeconfig.json
+C:\Users\Harry\Desktop\release\TF2MovementRandomizer.pdb

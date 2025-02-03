@@ -1,0 +1,87 @@
+airAcceleration 200 800* 400 11500
+airspeed 20 100* 50 2000
+sv_gravity 350 1000
+!autosprint_type 0 3
+phys_bounce 0.2 2* 50 250
+phys_friction 0.1 4
+phys_impactforcescale 1 6
+automantle_backoff_anim_maxfrac 0 1
+automantle_cooldown 0.01 7
+automantle_dangle_required_space 5 200
+automantle_duration_above 0.01 0.75* 0.01 7
+automantle_duration_below 0.01 0.75* 0.01 7
+automantle_duration_high 0.01 0.75* 0.01 7
+automantle_duration_level 0.01 0.75* 0.01 7
+automantle_forwarddist 10 50
+automantle_gun_enable_height 5 100
+automantle_height 10 200
+automantle_height_above -100 100
+automantle_height_below -100 100
+automantle_height_level -100 100
+automantle_jumpoff_anim_maxfrac 0 1
+automantle_jumpoff_duration 0.01 0.75* 0.01 7
+automantle_max_frac 0 1
+automantle_mindist 1 100
+automantle_rest_frac 0 1
+automantle_rest_frac_below 0 1
+automantle_searchdist 1 20
+automantle_view_correction_speed 1 500
+automantle_view_high_yaw_max 1 360
+automantle_view_pitch_max 1 360
+automantle_view_pitch_min 1 360
+automantle_view_yaw_max 1 360
+automantle_wallrun_maxangle_view 1 360
+dodge_cockpitOffsetMax 1 7* 1 100
+dodge_cockpitTiltMax 1 7* -360 360
+!dodge_no_movement_forward_enable 0 1
+!dodge_vertical_enable 0 1
+dodge_vertical_horzspeedscale 0.1 2* 1 10
+!dodge_vertical_in_air 0 1
+dodge_vertical_threshold 0.1 5
+dodge_viewTiltDecreaseSpeed 0.01 2* 0.01 7
+dodge_viewTiltFalloffTime 0.01 2* 0.01 7
+dodge_viewTiltIncreaseSpeed 0.01 15
+dodge_viewTiltMax 1 20* 10 360
+!slide_autostand 0 1
+slide_boost_cooldown 0.01 3* 0.01 7
+slide_max_angle_dot 0.1 0.9
+slide_step_velocity_reduction -200 150
+slide_viewTiltDecreaseSpeed 0.1 15
+slide_viewTiltIncreaseSpeed 0.1 15
+slide_viewTiltPlayerSpeed 1 1000
+!slide_whileInAir 0 1
+wallrun_allowed_wall_dist 7 50
+wallrun_allowed_wall_dist_wallhang 7 100
+wallrun_angleChangeMinCos 0.1 15
+wallrun_avoid_wall_top_decel 100 10000
+wallrun_fallAwaySpeed 10 1400
+wallrun_gravityRampUpTime 0.01 10
+wallrun_hangslipduration 0.01 7
+wallrun_hangslipstarttime 0.25 10
+wallrun_hangslipvel 1 1400
+wallrun_maxViewTilt 1 180
+wallrun_minAngle_air 90 180
+wallrun_noInputSlipFrac 0 1
+wallrun_pushAwayFallOffTime 0.01 5
+!wallrun_repelEnable 0 1
+wallrun_repelSoftness 0.1 50
+wallrun_repelTimeMin 0.01 7
+wallrun_retry_interval 0.001 1
+wallrun_rotateMaxRate 0.1 10
+wallrun_sameWallDist 1 200
+wallrun_sameWallDot 0.1 0.9
+wallrun_sameWallHeight 0 5
+wallrun_sameWallSlope 0 5
+wallrun_slipduration 0.01 7
+wallrun_slipslowdown 0 1
+wallrun_slipstarttime 0.5 7
+wallrun_slipvel 1 140
+wallrun_strengthLossEnd 100 2000
+wallrun_strengthLossStart 100 2000
+wallrun_upwardAutoPush 0.1 3
+wallrun_viewTiltPredictTime 0.01 2
+wallrun_viewTiltSpeed 1 12
+jump_graceperiod 0.01 1* 0.2 3
+jump_keyboardgrace_max 0.1 1.4* 0.7 12
+jump_keyboardgraceperiodmax 0.1 1* 0.5 12
+jump_keyboardgraceperiodmin 0.01 0.5* 0.1 2

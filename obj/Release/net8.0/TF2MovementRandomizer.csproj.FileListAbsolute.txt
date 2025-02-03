@@ -1,0 +1,14 @@
+C:\Users\Harry\Desktop\TF2MovementRandomizer\bin\Release\net8.0\TF2MovementRandomizer.exe
+C:\Users\Harry\Desktop\TF2MovementRandomizer\bin\Release\net8.0\TF2MovementRandomizer.deps.json
+C:\Users\Harry\Desktop\TF2MovementRandomizer\bin\Release\net8.0\TF2MovementRandomizer.runtimeconfig.json
+C:\Users\Harry\Desktop\TF2MovementRandomizer\bin\Release\net8.0\TF2MovementRandomizer.dll
+C:\Users\Harry\Desktop\TF2MovementRandomizer\bin\Release\net8.0\TF2MovementRandomizer.pdb
+C:\Users\Harry\Desktop\TF2MovementRandomizer\obj\Release\net8.0\TF2MovementRandomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harry\Desktop\TF2MovementRandomizer\obj\Release\net8.0\TF2MovementRandomizer.AssemblyInfoInputs.cache
+C:\Users\Harry\Desktop\TF2MovementRandomizer\obj\Release\net8.0\TF2MovementRandomizer.AssemblyInfo.cs
+C:\Users\Harry\Desktop\TF2MovementRandomizer\obj\Release\net8.0\TF2MovementRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\TF2MovementRandomizer\obj\Release\net8.0\TF2MovementRandomizer.dll
+C:\Users\Harry\Desktop\TF2MovementRandomizer\obj\Release\net8.0\refint\TF2MovementRandomizer.dll
+C:\Users\Harry\Desktop\TF2MovementRandomizer\obj\Release\net8.0\TF2MovementRandomizer.pdb
+C:\Users\Harry\Desktop\TF2MovementRandomizer\obj\Release\net8.0\TF2MovementRandomizer.genruntimeconfig.cache
+C:\Users\Harry\Desktop\TF2MovementRandomizer\obj\Release\net8.0\ref\TF2MovementRandomizer.dll
