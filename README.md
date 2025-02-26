@@ -7,7 +7,8 @@ Randomizes and shuffles most movement values in Titanfall 2!
 * Run TF2MovementRandomizer.exe as administrator 
 * Input your titanfall 2 install directory
 * In-game, run `exec randomizer` in console.
-(you can get a console through anything like icepick, SRMM, ronin launcher, northstar, etc.)
+
+You can get a console through anything like icepick, SRMM, ronin launcher, northstar, etc. Alternatively, you can bind a key to run the randomizer by entering `bind <key> exec randomizer` in your launch options or custom.cfg.
 <br><br>
 
 
